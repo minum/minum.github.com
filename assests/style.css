@@ -1,0 +1,23 @@
+#topbar {
+	height: 20px;
+	background-color: rgb(80, 80, 80);
+}
+
+#title{
+	font-size: 80px;
+	text-align: center;
+	line-height: 80px;
+	font-weight: normal;
+	margin: 150px 0px 0px 0px;
+}
+
+#intro {
+	text-align: center;
+	font-size: 18px;
+	margin: 0px;
+	font-weight: normal;
+}
+
+#image {
+
+}
